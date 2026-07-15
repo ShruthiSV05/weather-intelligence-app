@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence App",
+  "description": "A professional and responsive weather intelligence dashboard featuring current weather insights, a 7-day forecast, interactive temperature charts, and smart recommendations based on real-time public Open-Meteo API data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
